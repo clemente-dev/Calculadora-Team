@@ -8,4 +8,7 @@ public class Calculadora {
 	 System.out.println("--- CALCULADORA DEL EQUIPO A Y B ---");
 	 System.out.println("Suma: " + calc.sumar(10, 5));
 	 }
+	 
+	 public double multiplicar(double a, double b) { return a * b; }
+	 
 	}
